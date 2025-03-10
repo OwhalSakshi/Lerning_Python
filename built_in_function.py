@@ -135,10 +135,10 @@
 #  print(k+1,end =" ") 
 # for i in range(5):
 # 	print(i, end=" ")
-# i=0
-# while(i<=10):
-#     print(i)
-#     i=i+1
+i=0
+while(i<=10):
+     print(i)
+     i=i+1
 # print("while loop is over")
 #this code is for break and continue statement 
 # for i in range(10):

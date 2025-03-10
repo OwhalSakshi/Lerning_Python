@@ -13,4 +13,18 @@ def event():
     else: print("invalid input")
     print(f"Thank you {a}")
 
-event()
+# event()
+ 
+def nest():
+    print("1 :cultural event  2 : sprots event 3 :Dj night")
+    a=int(print("Enter which event you are attending :"))
+    if(a==1):
+        print("1 :cultural event")
+    elif(a==2):
+        print("2 : sprots event")      
+    else:
+        print("3 :Dj night")
+
+    
+
+
